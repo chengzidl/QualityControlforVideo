@@ -1,20 +1,20 @@
 
-## Using Auto Regressive Model to Predict Encoding Parameters for Consistent Video Quality
+# Using Auto Regressive Model to Predict Encoding Parameters for Consistent Video Quality
 
 <div><center>Using Auto Regressive Model to Predict Encoding Parameters for Consistent Video Quality</center></div>
 
-### 1. Compare Previous Studies
-#### 1.1 Principle Differences
+## Compare Previous Studies
+#### 1. Principle Differences
 
-#### 1.2 Qualitative Results
+#### 2. Qualitative Results
 ![Loss comaparion](./images/training_loss_comparison.png)
 
-#### 1.3 Quantitative Results
+#### 3. Quantitative Results
 ![Predict Precision](./images/bot.png)
 
 
 
-### Quick Start
+## Quick Start
 
 ### Prerequisites
 
